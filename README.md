@@ -4,9 +4,8 @@
 This Power BI dashboard provides insights into **wildlife population trends, conservation threats, and human impact**. The visualization helps understand the **relationship between species population, threats, habitat loss, and conservation status**.  
 
 ## **Dashboard Preview**  
-📌 **[Insert Image or Link to Dashboard]**  
+![Dashboard Screenshot](https://github.com/user-attachments/assets/85380c00-fdc7-4371-a36e-77dfc84b9cc2)
 
-![Dashboard Screenshot](image.png)  
 
 ---
 
